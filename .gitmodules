@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/nbigaouette/git2-rs-issue-260-submodule.git
